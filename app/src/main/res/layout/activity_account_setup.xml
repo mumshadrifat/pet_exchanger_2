@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".accountSetup"
+    android:background="@drawable/user"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/userchooseImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4b004b"
+        android:text="Select from gallery "
+        android:textColor="#f6c126"
+
+
+        />
+    <ImageView
+android:layout_marginTop="50dp"
+        android:id="@+id/userImageId"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="10dp"
+        android:background="#f6c126"
+        />
+
+    <EditText
+        android:background="#E6E6FA"
+
+        android:paddingBottom="20dp"
+        android:id="@+id/usernameId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="User name"
+        />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        ></LinearLayout>
+    
+    
+    <Button
+        
+        android:layout_gravity="bottom"
+        android:layout_marginTop="20dp"
+        android:id="@+id/usersaveButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4b004b"
+        android:text="Save"
+        android:textColor="#f6c126"
+
+
+        />
+
+</LinearLayout>

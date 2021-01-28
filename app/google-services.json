@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781812866060",
+    "firebase_url": "https://nmifirebaseproject.firebaseio.com",
+    "project_id": "nmifirebaseproject",
+    "storage_bucket": "nmifirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781812866060:android:98d4d9ba66a41aa08ea229",
+        "android_client_info": {
+          "package_name": "com.example.nmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781812866060-sk6c4objgbus8bf01s2b9ginrn3v8728.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nmi",
+            "certificate_hash": "8cfbd2fb667353b1b6faf279ceb2066f3368bd75"
+          }
+        },
+        {
+          "client_id": "781812866060-cpfhdk3nuuep4mj5hgr8m4qlfg32b4cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-rXNDldQkHU8tCM8ggF_E8rT1x6LblN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781812866060-cpfhdk3nuuep4mj5hgr8m4qlfg32b4cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
